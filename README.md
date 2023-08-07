@@ -8,4 +8,4 @@ the main motive to create this service is to store student information in databa
 
 In this project we use jsonpowerdb is used to easy and flowlessly store the data.
 benifit of jsonpowerdb is we do not need to code multiple lines as the js from login2explore is already provided 
-this make working with JPDB very easy even easy than writing code in html😅
+this make working with JPDB very easy even easy than writing code in html.
